@@ -1,6 +1,8 @@
 * hello-world
 Used for testing github
 
+#+CAPTION: This is the caption for the next figure image
+#+NAME: Alessandro Baricco
 [[baricco.jpg]]
 
 * Edits
