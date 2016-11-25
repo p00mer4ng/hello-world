@@ -1,6 +1,11 @@
 * hello-world
 Used for testing github
 
+[[baricco.jpg]]
+
 * Edits
+
+[[todo.org][To-Do file]]
+
 ** Edit #1
 ** Edit #2
