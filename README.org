@@ -18,7 +18,7 @@ Used for testing github
 
 ** Maven
 
-#+BEGIN_SRC xml
+#+BEGIN_SRC 
 <dependency>
   <groupId>org.orgorg</groupId>
   <artifactId>ad</artifactId>
@@ -28,6 +28,6 @@ Used for testing github
 
 ** Gradle
 
-#+BEGIN_SRC groovy
+#+BEGIN_SRC 
   compile 'org.orgorg:ad:1.0.0'
 #+END_SRC
