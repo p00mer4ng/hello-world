@@ -13,3 +13,21 @@ Used for testing github
 
 ** Edit #1
 ** Edit #2
+
+* Installation
+
+** Maven
+
+#+BEGIN_SRC xml
+<dependency>
+  <groupId>org.orgorg</groupId>
+  <artifactId>ad</artifactId>
+  <version>1.0.0</version>
+</dependency>
+#+END_SRC
+
+** Gradle
+
+#+BEGIN_SRC groovy
+  compile 'org.orgorg:ad:1.0.0'
+#+END_SRC
