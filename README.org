@@ -31,3 +31,7 @@ Used for testing github
 #+BEGIN_SRC groovy
   compile 'org.orgorg:ad:1.0.0'
 #+END_SRC
+
+#+BEGIN_SRC scala
+  libraryDependencies += "org.org" % "ad" % "1.0.0"
+#+END_SRC
