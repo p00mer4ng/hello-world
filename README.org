@@ -1,26 +1,15 @@
 #+TITLE: hello-world
 
-* Plain link with image
+* Using +html
 
-#+html: <a href="http://www.google.com"><img width="240" alt="Android app on Google Play" src="en_badge_web_generic.png"></a>
+#+html: <a href="http://www.google.com"><img width="240" alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 
-* hello-world
-Used for testing github
-
-#+CAPTION: This is the caption for the next figure image
-#+NAME: Alessandro Baricco
-[[baricco.jpg]]
-
-* Edits
-
-[[todo.org][To-Do file]]
-
-** Edit #1
+** Using ATTR_HTML
 
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[http://www.google.com][https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png]]
 
-** Edit #2
+** Using just google-play-badge.240.png
 
 [[google-play-badge.240.png]]
 
