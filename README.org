@@ -1,8 +1,8 @@
 #+TITLE: hello-world
 
-* Using +html
+* Using +html (raw html)
 
-#+html: <a href="http://www.google.com"><img width="240" alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
+#+html: <a href="https://play.google.com/store/apps/details?id=com.orgzly"><img width="240" alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 
 ** Using ATTR_HTML
 
