@@ -18,6 +18,8 @@ Used for testing github
 
 ** Edit #2
 
+[[google-play-badge.240.png]]
+
 * Installation
 
 ** Maven
