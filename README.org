@@ -12,6 +12,9 @@ Used for testing github
 [[todo.org][To-Do file]]
 
 ** Edit #1
+
+[[https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png]]
+
 ** Edit #2
 
 * Installation
