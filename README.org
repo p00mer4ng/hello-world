@@ -13,6 +13,7 @@ Used for testing github
 
 ** Edit #1
 
+#+attr_html: :width 240px
 [[http://www.google.com][https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png]]
 
 ** Edit #2
