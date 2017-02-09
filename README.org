@@ -1,5 +1,6 @@
 #+TITLE: hello-world
 
+updating version for 0.2
 working on master
 
 Continuing devl on master
