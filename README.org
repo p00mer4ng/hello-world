@@ -1,6 +1,10 @@
 #+TITLE: hello-world
 
-more work on master while releasing 0.2
+These changes are resolved:
+- more work on master while releasing 0.2
+- updaing changes for 0.2
+- updating version for 0.2
+
 working on master
 
 Continuing devl on master
