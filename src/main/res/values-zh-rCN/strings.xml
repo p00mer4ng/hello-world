@@ -4,4 +4,5 @@
   <string name="yes">chineseYes</string>
   <string name="no">chineseNo</string>
   <string name="maybe">chineseMaybe</string>
+  <string name="ok">OK</string>
 </resources>
