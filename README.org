@@ -1,6 +1,6 @@
 #+TITLE: hello-world
 
-[[https://d322cqt584bo4o.cloudfront.net/poo-hello-world/localized.svg]]
+[[https://crowdin.com/project/poo-hello-world][https://d322cqt584bo4o.cloudfront.net/poo-hello-world/localized.svg]]
 
 hotfix for 0.2
 These changes are resolved:
