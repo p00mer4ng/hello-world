@@ -1,0 +1,8 @@
+files:
+  - source: /strings.xml
+    translation: /src/main/res/values-%android_code%/strings.xml
+    languages_mapping:
+      android_code:
+        zh-CN: zh-rCN
+    translate_attributes: '0'
+    content_segmentation: '0'
