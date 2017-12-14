@@ -3,6 +3,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <string name="yes">Oui</string>
   <string name="no">Non</string>
-  <string name="maybe">Maybe</string>
+  <string name="maybe_message">Maybe</string>
   <string name="ok">OK</string>
 </resources>
