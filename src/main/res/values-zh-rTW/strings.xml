@@ -8,4 +8,6 @@
   <plurals name="deleted">
     <item quantity="other">Deleted %d</item>
   </plurals>
+  <string name="this_and_that">This &amp; that</string>
+  <string name="this_and_that_with_cdata">This <![CDATA[&]]> that</string>
 </resources>
