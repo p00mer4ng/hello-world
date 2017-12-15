@@ -5,4 +5,7 @@
   <string name="no">不是</string>
   <string name="maybe_message">待定</string>
   <string name="ok">正常</string>
+  <plurals name="deleted">
+    <item quantity="other">Deleted %d</item>
+  </plurals>
 </resources>
