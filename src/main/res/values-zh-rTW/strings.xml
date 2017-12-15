@@ -5,4 +5,7 @@
   <string name="no">No</string>
   <string name="maybe_message">Maybe</string>
   <string name="ok">OK</string>
+  <plurals name="deleted">
+    <item quantity="other">Deleted %d</item>
+  </plurals>
 </resources>
