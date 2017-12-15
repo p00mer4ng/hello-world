@@ -3,7 +3,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <string name="yes">Oui</string>
   <string name="no">Non</string>
-  <string name="maybe_message">Peut-être</string>
+  <string name="maybe_renamed">Maybe</string>
   <string name="ok">Bien</string>
   <plurals name="deleted">
     <item quantity="one">Supprimé</item>
