@@ -1,5 +1,7 @@
 #+TITLE: hello-world
 
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/poo-hello-world/localized.svg)](https://crowdin.com/project/poo-hello-world)
+
 * Google Play badge page
 
 <a href='https://play.google.com/store/apps/details?id=com.orgzly&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="240" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
