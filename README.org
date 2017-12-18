@@ -2,6 +2,9 @@
 
 [[https://crowdin.com/project/poo-hello-world][https://d322cqt584bo4o.cloudfront.net/poo-hello-world/localized.svg]]
 
+html: link
+#+html: <a title="Crowdin" target="_blank" href="https://crowdin.com/project/poo-hello-world"><img src="https://d322cqt584bo4o.cloudfront.net/poo-hello-world/localized.svg"></a>
+
 hotfix for 0.2
 These changes are resolved:
 - more work on master while releasing 0.2
