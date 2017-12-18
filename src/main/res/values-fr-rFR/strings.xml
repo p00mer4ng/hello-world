@@ -10,5 +10,5 @@
     <item quantity="other">Supprimer %d</item>
   </plurals>
   <string name="this_and_that">This &amp; that</string>
-  <string name="this_and_that_with_cdata">This <![CDATA[&]]> that</string>
+  <string name="this_and_that_with_cdata">Cette <![CDATA[&]]> qui</string>
 </resources>
