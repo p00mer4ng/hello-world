@@ -6,3 +6,4 @@ files:
         zh-CN: zh-rCN
     translate_attributes: '0'
     content_segmentation: '0'
+    update_option: 'update_as_unapproved'
