@@ -11,4 +11,5 @@
   </plurals>
   <string name="this_and_that">Ceci et cela</string>
   <string name="this_and_that_with_cdata">Cette <![CDATA[&]]> qui</string>
+  <string name="new_string">Hi</string>
 </resources>
