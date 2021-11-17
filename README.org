@@ -29,6 +29,11 @@ Preparing for release
 
 [[google-play-badge.240.png]]
 
+** New
+
+[[https://play.google.com/store/apps/details?id=com.orgzly][https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png]]
+[[https://f-droid.org/app/com.orgzly][https://f-droid.org/badge/get-it-on.png]]
+
 * Installation
 
 ** Maven
