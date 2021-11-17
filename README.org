@@ -31,10 +31,13 @@ Preparing for release
 
 ** New
 
+#+ATTR_HTML: title="Google.com"
 [[http://www.google.com][file:https://shields.io/badge/license-MIT-green]][[http://www.google.com][file:https://shields.io/badge/license-MIT-green]]
 
+#+ATTR_HTML: title="Google.com"
 [[http://www.google.com][file:https://shields.io/badge/license-MIT-green]] [[http://www.google.com][file:https://shields.io/badge/license-MIT-green]]
 
+#+ATTR_HTML: title="Google.com"
 [[http://www.google.com][file:https://shields.io/badge/license-MIT-green]]
 [[http://www.google.com][file:https://shields.io/badge/license-MIT-green]]
 
